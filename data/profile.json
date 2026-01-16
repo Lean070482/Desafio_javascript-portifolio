@@ -1,0 +1,62 @@
+{
+  "name": "Leandro Rocha Silva de Moraes",
+  "photo": "./assets/img/my-photo.jpg",
+  "job": "Estudante Universitário",
+  "location": "Garanhuns - Pernambuco",
+  "phone": "(87) 98166-2412",
+  "email": "lean070482@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Cadastro de Transporte Universitário – Usuário",
+      "url": "http://cadastroescolarcorrentes.netlify.app/",
+      "github": false
+    },
+    {
+      "name": "Cadastro de Transporte Universitário – Admin",
+      "url": "https://admincadastro.netlify.app/",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Projetos acadêmicos e pessoais",
+      "period": "2024 - atual",
+      "description": "Desenvolvimento de aplicações front-end utilizando HTML, CSS, JavaScript e GitHub Pages."
+    }
+  ]
+}
